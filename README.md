@@ -38,7 +38,7 @@
 <h2 align="center">Как со мной связаться:</h3>
 <br>
 <p align="left">
-<a href="https://www.linkedin.com/in/constantin-vanchurenkov-10570723b/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/constantin-vanchurenkov-10570723b/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
  <a href="https://t.me/Wacorasu" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"  /></a>
  <a href="https://vk.com/wacorasu" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="vk"  /></a>
 </p>
