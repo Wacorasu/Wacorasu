@@ -1,9 +1,9 @@
 <h1 align="center">Всем привет, я Константин</a>  
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%B2+%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%B5+%D0%BF%D1%83%D1%82%D0%B8" alt="Typing SVG" /></h2>
-<br>
+
 <h3>Немного обо мне:</h3>
-<br>
+
 
 - 👩‍💻 Я веб-разработчик, изучал как frontend так и backend стэки технологий
 
@@ -15,7 +15,7 @@
 
 <br>
 <h2 align="center">Стэк с которым я работал:</h3>
-<br>
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,7 +36,7 @@
 
 <br>
 <h2 align="center">Как со мной связаться:</h3>
-<br>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/constantin-vanchurenkov-10570723b/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
  <a href="https://t.me/Wacorasu" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"  /></a>
@@ -44,15 +44,11 @@
 </p>
 <br>
 <h2 align="center">Моя cтатистика</h2>
-<br>
+
  <p align='center'><img  src="https://github-profile-trophy.vercel.app/?username=wacorasu&column=3&margin-w=15&margin-h=15&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt='github  profile trophy' /></p>
   <p align='center'> <img  src="https://streak-stats.demolab.com?user=wacorasu&theme=dark&hide_border=true&card_width=400" alt='streak stats' height='200'/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wacorasu&layout=donut&theme=dark&&hide_border=true" alt='programming languages stats' height='200'/></p>
-<br>
-<br>
-<br>
 
- ![](https://komarev.com/ghpvc/?username=wacorasu)
  
 
 
