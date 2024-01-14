@@ -46,8 +46,7 @@
 <h2 align="center">Моя cтатистика</h2>
 
  <p align='center'><img  src="https://github-profile-trophy.vercel.app/?username=wacorasu&column=3&margin-w=15&margin-h=15&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt='github  profile trophy' /></p>
-  <p align='center'> <img  src="https://streak-stats.demolab.com?user=wacorasu&theme=dark&hide_border=true&card_width=400" alt='streak stats' height='200'/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wacorasu&layout=donut&theme=dark&&hide_border=true" alt='programming languages stats' height='200'/></p>
+  <p align='center'> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wacorasu&layout=donut&theme=dark&&hide_border=true" alt='programming languages stats' height='200'/></p>
 
  
 
